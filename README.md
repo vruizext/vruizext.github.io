@@ -1,3 +1,3 @@
-# victor-ruiz.net website
+# victor-ruiz.me website
 
-This is my personal website, based on [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) theme
+This is my personal website
